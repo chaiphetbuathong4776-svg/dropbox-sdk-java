@@ -438,7 +438,9 @@ See: [CertificatePinner](https://square.github.io/okhttp/2.x/okhttp/com/squareup
 ```java
 OkHttpClient httpClient = OkHttpRequestor.defaultOkHttpClient().clone()
         .setCertificatePinner(myCertificatePinner)
-        .build();
+        .build(https://docs.github.com/api/article/body?pathname=/en/github-models/use-github-models/prototyping-with-ai-models);
 ```
+##https://docs.github.com/api/article/body?pathname=/en/github-models/use-github-models/prototyping-with-ai-models
+
 ©coppyright 2026
 
