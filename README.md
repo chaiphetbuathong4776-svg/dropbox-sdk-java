@@ -440,4 +440,5 @@ OkHttpClient httpClient = OkHttpRequestor.defaultOkHttpClient().clone()
         .setCertificatePinner(myCertificatePinner)
         .build();
 ```
+©coppyright 2026
 
